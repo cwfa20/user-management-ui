@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite UI Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application will act as a UI for the user management application. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Currently a user input form is in place and this data can be sent to the backend application (user-management) and subesquently stored in the postgres database.
